@@ -1,6 +1,6 @@
 # Whale Sound Classifier
 
-This project aims to classify whale species based on audio recordings using a Convolutional Neural Network (CNN). It includes Python scripts for data preprocessing, model training (using PyTorch), and model conversion to ONNX format. It also features a Vue.js frontend application that allows users to listen to a sample whale sound, make a prediction, and see the model's classification performed directly in the browser using ONNX Runtime Web.
+This project aims to classify whale species based on audio recordings using a Convolutional Neural Network (CNN). It includes Python scripts for data preprocessing, model training (using PyTorch), and model conversion to ONNX format. It's used in a Vue.js frontend application that allows users to listen to a sample whale sound, make a prediction, and see the model's classification performed directly in the browser using ONNX Runtime Web.
 
 ## Features
 
